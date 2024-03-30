@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DarkRune_Network/static/css/main.8877c7f6.css",
+    "main.js": "/DarkRune_Network/static/js/main.4f2478de.js",
+    "index.html": "/DarkRune_Network/index.html",
+    "main.8877c7f6.css.map": "/DarkRune_Network/static/css/main.8877c7f6.css.map",
+    "main.4f2478de.js.map": "/DarkRune_Network/static/js/main.4f2478de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8877c7f6.css",
+    "static/js/main.4f2478de.js"
+  ]
+}
